@@ -5,7 +5,7 @@ A invenção do carro tornou muito mais confortável realizar viagens de longa d
 
 **Entrada**
 
-A entrada consiste de duas linhas. A entrada contém dois inteiros L e D indicando o comprimento da rodovia e a distância entre pedágios, respectivamente, ambos em quilômetros. A entrada contém dois inteiros K e P, indicando o custo de combustível por quilômetro percorrido e o valor de cada pedágio. O primeiro pedágio está localizado no quilômetro D da rodovia (ou seja, a distância do início da rodovia para o primeiro pedágio é D quilômetros). Use arquivo de entrada “input.dat”.
+A entrada contém dois inteiros L e D indicando o comprimento da rodovia e a distância entre pedágios, respectivamente, ambos em quilômetros. A entrada contém dois inteiros K e P, indicando o custo de combustível por quilômetro percorrido e o valor de cada pedágio. O primeiro pedágio está localizado no quilômetro D da rodovia (ou seja, a distância do início da rodovia para o primeiro pedágio é D quilômetros). Use arquivo de entrada “input.dat”.
 
 **Saída**
 
